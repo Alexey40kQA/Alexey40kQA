@@ -1,4 +1,7 @@
-# Я Алексей, занимаюсь тестированием
+# Привет, меня зовут Алексей 
+
+<h3 class="heading-element" dir="auto">Занимаюсь тестированием ПО 💻</h3>
+
 
 ---
 
@@ -6,6 +9,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+ <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
 </div>
 
 ---
