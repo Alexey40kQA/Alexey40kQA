@@ -1,6 +1,6 @@
 # Привет, меня зовут Алексей
 
-<h3 class="heading-element" dir="auto">Занимаюсь тестированием ПО 💻</h3>
+<h3 class="heading-element" dir="auto">Занимаюсь тестированием ПО 🔎💻</h3>
 
 
 ---
