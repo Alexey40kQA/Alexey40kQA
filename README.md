@@ -1,6 +1,6 @@
 # Привет👋
 
-<h3 class="heading-element" dir="auto"> Изучаю и занимаюсь тестированием ПО 🔎💻</h3>
+<h3 class="heading-element" dir="auto"> Изучаю и занимаюсь тестированием 🔎💻</h3>
 
 
 ---
